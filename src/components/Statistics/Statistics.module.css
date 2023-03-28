@@ -1,0 +1,8 @@
+.feedback{
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.feedback:not(:last-child) {
+	margin-bottom: 10px;
+}
